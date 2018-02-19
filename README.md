@@ -1,5 +1,5 @@
 # asciidocWritting
 
-Hi! everyone. Today is sunday.
+Hi! everyone. Today is Tuesday.
 
 Hi! forks.
